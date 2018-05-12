@@ -1,10 +1,16 @@
 _repo: Ocmulgee-National-MonumentGeorgia_49058
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49058-h/images/cover.jpg
 creator:
   author:
     agent_name: Pope, G. D.
     gutenberg_agent_id: '45115'
     url: http://www.gutenberg.org/2009/agents/45115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49058#Ocmulgee-National-MonumentGeorgia
 gutenberg_issued: '2015-05-27'
 gutenberg_type: Text
 identifiers:
